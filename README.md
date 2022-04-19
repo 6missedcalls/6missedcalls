@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Sonr](https://github.com/sonr-io)
 
-- 🌱 I’m currently learning **Remix**
+- 🌱 I’m currently learning **GO**
 
 - 💬 Ask me about **ReactJS, Remix, Life ❤️**
 
