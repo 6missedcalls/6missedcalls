@@ -28,6 +28,7 @@ Production-ready skills that give AI agents real-world capabilities. Built for O
 | [**kalshi-cli**](https://github.com/6missedcalls/kalshi-cli) | CLI for the Kalshi prediction market exchange — trade, stream, and manage portfolios from the terminal | Go |
 | [**notion-cli**](https://github.com/6missedcalls/notion-cli) | Fast Notion CLI for pages, databases, and blocks | TypeScript |
 | [**zora-mcp**](https://github.com/6missedcalls/zora-mcp) | MCP server for Zora Protocol — AI-driven token queries and trades on Base/Zora via natural language | TypeScript |
+| [**ai-stock-terminal**](https://github.com/6missedcalls/ai-stock-terminal) | Bloomberg-style dashboard for 45+ AI stocks — live quotes, news feed, co-mention graph, sector filtering via Finnhub | JavaScript |
 | [**cobra-gin-starter**](https://github.com/6missedcalls/cobra-gin-starter) | Production-ready Go starter with Cobra CLI + Gin HTTP server | Go |
 
 ### Catalog
