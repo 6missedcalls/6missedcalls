@@ -38,8 +38,7 @@ Production-ready skills that give AI agents real-world capabilities. Built for O
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&username=6missedcalls" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&username=6missedcalls" height="150" alt="languages" />
+  <img src="https://streak-stats.demolab.com/?user=6missedcalls&theme=dark&hide_border=true" height="150" alt="streak" />
 </div>
 
 ---
