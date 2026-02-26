@@ -25,16 +25,16 @@ Production-ready skills that give AI agents real-world capabilities. Built for O
 | Project | What It Does | Tech |
 |:--------|:-------------|:-----|
 | [**swarmux**](https://github.com/6missedcalls/swarmux) | Multi-agent orchestration for Claude Code via tmux — spawn, message, and coordinate AI agents from any shell | Shell |
-| [**kalshi-cli**](https://github.com/6missedcalls/kalshi-cli) | CLI for the Kalshi prediction market exchange — trade, stream, and manage portfolios from the terminal | Go |
 | [**notion-cli**](https://github.com/6missedcalls/notion-cli) | Fast Notion CLI for pages, databases, and blocks | TypeScript |
-| [**zora-mcp**](https://github.com/6missedcalls/zora-mcp) | MCP server for Zora Protocol — AI-driven token queries and trades on Base/Zora via natural language | TypeScript |
-| [**cobra-gin-starter**](https://github.com/6missedcalls/cobra-gin-starter) | Production-ready Go starter with Cobra CLI + Gin HTTP server | Go |
 
 ### Projects
 
 | Project | What It Does | Tech |
 |:--------|:-------------|:-----|
-| [**ai-stock-terminal**](https://github.com/6missedcalls/ai-stock-terminal) | Bloomberg-style dashboard for 45+ AI stocks — live quotes, news feed, co-mention graph, sector filtering | JavaScript |
+| [**zora-mcp**](https://github.com/6missedcalls/zora-mcp) | MCP server for Zora Protocol — query tokens, track markets, and execute trades on Base/Zora via natural language using Coinbase AgentKit | TypeScript |
+| [**kalshi-cli**](https://github.com/6missedcalls/kalshi-cli) | CLI for the Kalshi prediction market exchange — trade, stream, and manage portfolios from the terminal | Go |
+| [**ai-stock-terminal**](https://github.com/6missedcalls/ai-stock-terminal) | Bloomberg-style dashboard for 45+ AI stocks — live quotes, news feed, co-mention graph, and sector filtering via Finnhub | JavaScript |
+| [**cobra-gin-starter**](https://github.com/6missedcalls/cobra-gin-starter) | Go starter template unifying Cobra CLI, Gin REST API, and a Templ + HTMX + TailwindCSS frontend in a single serve command | Go |
 
 ### Catalog
 
