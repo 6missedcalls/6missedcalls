@@ -1,6 +1,6 @@
 ## Ian Perez
 
-Software engineer building at the intersection of AI agents, fintech, and Web3. I design and ship tools that give AI agents access to the real world — banking, trading, tax optimization, video editing, prediction markets, and on-chain protocols. Equally comfortable writing a Go CLI, a Next.js dashboard, a native macOS app, a Rust Telegram bot, or a Solidity contract.
+Software engineer building at the intersection of AI agents, fintech, and Web3. I design and ship tools that give AI agents access to the real world — banking, trading, tax optimization, video editing, prediction markets, and on-chain protocols.
 
 Most of my recent work is in the **Agent Skills Protocol** ecosystem: production-ready skill packages that teach AI coding agents new capabilities. Built for OpenClaw, Claude Code, and Codex.
 
@@ -9,6 +9,7 @@ Most of my recent work is in the **Agent Skills Protocol** ecosystem: production
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B20-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
@@ -27,6 +28,7 @@ Most of my recent work is in the **Agent Skills Protocol** ecosystem: production
 ![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=flat-square&logo=htmx&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white)
 ![Tokio](https://img.shields.io/badge/Tokio-000000?style=flat-square&logo=rust&logoColor=white)
+![FTXUI](https://img.shields.io/badge/FTXUI-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 #### Tools & Platforms
 
@@ -34,6 +36,7 @@ Most of my recent work is in the **Agent Skills Protocol** ecosystem: production
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
@@ -66,6 +69,7 @@ Production-ready skills that give AI agents real-world capabilities.
 
 | Project | What It Does | Stack |
 |:--------|:-------------|:------|
+| [**lin-cli**](https://github.com/6missedcalls/lin-cli) | Fast, terminal-native client for Linear — 18 modules, 50+ commands, interactive TUI with kanban board, built for humans and AI agents | ![C++](https://img.shields.io/badge/-C%2B%2B20-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
 | [**zora-mcp**](https://github.com/6missedcalls/zora-mcp) | MCP server for Zora Protocol — query tokens, track markets, and execute trades on Base/Zora via natural language using Coinbase AgentKit | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/-Web3-363636?style=flat-square&logo=solidity&logoColor=white) |
 | [**kalshi-cli**](https://github.com/6missedcalls/kalshi-cli) | CLI for the Kalshi prediction market exchange — trade, stream, and manage portfolios from the terminal | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
 | [**ai-stock-terminal**](https://github.com/6missedcalls/ai-stock-terminal) | Bloomberg-style dashboard for 45+ AI stocks — live quotes, news feed, co-mention graph, and sector filtering via Finnhub | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
