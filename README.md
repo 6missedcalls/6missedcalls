@@ -1,6 +1,6 @@
 ## Ian Perez
 
-Software engineer building at the intersection of AI agents, fintech, and Web3. I design and ship tools that give AI agents access to the real world — banking, trading, tax optimization, video editing, prediction markets, and on-chain protocols. Equally comfortable writing a Go CLI, a Next.js dashboard, a Rust Telegram bot, or a Solidity contract.
+Software engineer building at the intersection of AI agents, fintech, and Web3. I design and ship tools that give AI agents access to the real world — banking, trading, tax optimization, video editing, prediction markets, and on-chain protocols. Equally comfortable writing a Go CLI, a Next.js dashboard, a native macOS app, a Rust Telegram bot, or a Solidity contract.
 
 Most of my recent work is in the **Agent Skills Protocol** ecosystem: production-ready skill packages that teach AI coding agents new capabilities. Built for OpenClaw, Claude Code, and Codex.
 
@@ -12,6 +12,7 @@ Most of my recent work is in the **Agent Skills Protocol** ecosystem: production
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 #### Frameworks & Libraries
@@ -24,6 +25,7 @@ Most of my recent work is in the **Agent Skills Protocol** ecosystem: production
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=flat-square&logo=htmx&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white)
 ![Tokio](https://img.shields.io/badge/Tokio-000000?style=flat-square&logo=rust&logoColor=white)
 
 #### Tools & Platforms
@@ -67,6 +69,7 @@ Production-ready skills that give AI agents real-world capabilities.
 | [**zora-mcp**](https://github.com/6missedcalls/zora-mcp) | MCP server for Zora Protocol — query tokens, track markets, and execute trades on Base/Zora via natural language using Coinbase AgentKit | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/-Web3-363636?style=flat-square&logo=solidity&logoColor=white) |
 | [**kalshi-cli**](https://github.com/6missedcalls/kalshi-cli) | CLI for the Kalshi prediction market exchange — trade, stream, and manage portfolios from the terminal | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
 | [**ai-stock-terminal**](https://github.com/6missedcalls/ai-stock-terminal) | Bloomberg-style dashboard for 45+ AI stocks — live quotes, news feed, co-mention graph, and sector filtering via Finnhub | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**magic-teleprompter**](https://github.com/6missedcalls/magic-teleprompter) | Native macOS teleprompter that floats over everything — hides from OBS/screen recording, mirror mode, sentence pacing, glass UI | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white) |
 | [**cobra-gin-starter**](https://github.com/6missedcalls/cobra-gin-starter) | Go starter template unifying Cobra CLI, Gin REST API, and a Templ + HTMX + TailwindCSS frontend in a single serve command | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![HTMX](https://img.shields.io/badge/-HTMX-3366CC?style=flat-square&logo=htmx&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
 
 ### Catalog
