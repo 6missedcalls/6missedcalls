@@ -2,7 +2,7 @@
 
 Software engineer building at the intersection of AI agents, fintech, and Web3. I design and ship tools that give AI agents access to the real world — banking, trading, tax optimization, video editing, prediction markets, and on-chain protocols.
 
-Most of my recent work is in the **Agent Skills Protocol** ecosystem: production-ready skill packages that teach AI coding agents new capabilities. Built for OpenClaw, Claude Code, and Codex.
+Recently shipping **agent skills** for the OpenClaw/Claude Code ecosystem, **native CLIs** for Linear and Kalshi, **multi-agent tooling** with swarmux, and **MCP servers** for on-chain protocols.
 
 #### Languages
 
