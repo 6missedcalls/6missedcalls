@@ -2,7 +2,7 @@
 
 Software engineer building at the intersection of AI agents, fintech, and Web3. I design and ship tools that give AI agents access to the real world — banking, trading, tax optimization, video editing, prediction markets, and on-chain protocols.
 
-Recently shipping **agent skills** for the OpenClaw/Claude Code ecosystem, **native CLIs** for Linear, Apollo.io, and Kalshi, **multi-agent tooling** with swarmux, and **MCP servers** for on-chain protocols.
+Recently shipping **agent skills** for the OpenClaw/Claude Code ecosystem, **native CLIs** for Linear, Apollo.io, Calendly, and Kalshi, **multi-agent tooling** with swarmux, and **MCP servers** for on-chain protocols.
 
 #### Languages
 
@@ -58,19 +58,15 @@ Production-ready skills that give AI agents real-world capabilities.
 | [**erpnext-skill**](https://github.com/6missedcalls/erpnext-skill) | Full Frappe Framework & ERPNext v15 development reference across 14+ modules | ![Markdown](https://img.shields.io/badge/-Docs-000000?style=flat-square&logo=markdown&logoColor=white) |
 | [**openclaw-webmcp-skill**](https://github.com/6missedcalls/openclaw-webmcp-skill) | W3C WebMCP standard — structured tool discovery and invocation for websites (Chrome 146+) | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
 
-### Developer Tools
+### Projects
 
 | Project | What It Does | Stack |
 |:--------|:-------------|:------|
 | [**swarmux**](https://github.com/6missedcalls/swarmux) | Multi-agent orchestration for Claude Code via tmux — spawn, message, and coordinate AI agents from any shell | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
 | [**notion-cli**](https://github.com/6missedcalls/notion-cli) | Fast Notion CLI for pages, databases, and blocks | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-
-### Projects
-
-| Project | What It Does | Stack |
-|:--------|:-------------|:------|
 | [**lin-cli**](https://github.com/6missedcalls/lin-cli) | Fast, terminal-native client for Linear — 18 modules, 50+ commands, interactive TUI with kanban board, built for humans and AI agents | ![C++](https://img.shields.io/badge/-C%2B%2B20-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
 | [**apollo-io-cli**](https://github.com/6missedcalls/apollo-io-cli) | Apollo.io CLI for humans and AI agents — 35 endpoints, 12 modules, ID-to-name resolution, SQLite cache, bulk ops, `brew install apollo` | ![C++](https://img.shields.io/badge/-C%2B%2B20-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| [**calendly-cli**](https://github.com/6missedcalls/calendly-cli) | Calendly CLI for humans and AI agents — 9 modules, 15+ endpoints, name-to-URI resolver, file cache, composite booking command | ![C++](https://img.shields.io/badge/-C%2B%2B20-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
 | [**zora-mcp**](https://github.com/6missedcalls/zora-mcp) | MCP server for Zora Protocol — query tokens, track markets, and execute trades on Base/Zora via natural language using Coinbase AgentKit | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/-Web3-363636?style=flat-square&logo=solidity&logoColor=white) |
 | [**kalshi-cli**](https://github.com/6missedcalls/kalshi-cli) | CLI for the Kalshi prediction market exchange — trade, stream, and manage portfolios from the terminal | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
 | [**ai-stock-terminal**](https://github.com/6missedcalls/ai-stock-terminal) | Bloomberg-style dashboard for 45+ AI stocks — live quotes, news feed, co-mention graph, and sector filtering via Finnhub | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
