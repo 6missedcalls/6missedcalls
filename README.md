@@ -57,6 +57,7 @@ Production-ready skills that give AI agents real-world capabilities.
 | [**slidev-agent-skill**](https://github.com/6missedcalls/slidev-agent-skill) | Create, theme, build, and export Slidev presentations with a script-first workflow | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
 | [**erpnext-skill**](https://github.com/6missedcalls/erpnext-skill) | Full Frappe Framework & ERPNext v15 development reference across 14+ modules | ![Markdown](https://img.shields.io/badge/-Docs-000000?style=flat-square&logo=markdown&logoColor=white) |
 | [**openclaw-webmcp-skill**](https://github.com/6missedcalls/openclaw-webmcp-skill) | W3C WebMCP standard — structured tool discovery and invocation for websites (Chrome 146+) | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| [**ultraplan**](https://github.com/6missedcalls/ultraplan) | Deep multi-phase planning — parallel agent exploration, iterative interviews, adversarial verification, and autonomous mode companion derived from Claude Code internals | ![Markdown](https://img.shields.io/badge/-Docs-000000?style=flat-square&logo=markdown&logoColor=white) |
 
 ### Projects
 
