@@ -85,5 +85,3 @@ Production-ready skills that give AI agents real-world capabilities.
 </div>
 
 ---
-
-<a href="https://twitter.com/6missedcalls"><img src="https://img.shields.io/twitter/follow/6missedcalls?logo=twitter&style=for-the-badge" /></a> <a href="https://www.linkedin.com/in/shadowysupercoder"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
